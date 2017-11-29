@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Restaurante McStudium King</string>
+    <string name="bienvenida">Bienvenido a la aplicación de McStudium King</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="btnFotos">Fotos</string>
+    <string name="btnProductos">Productos</string>
+    <string name="rdbSevilla">Sevilla</string>
+    <string name="rdbMalaga">Málaga</string>
+
+    <string-array name="sevillaLista">
+        <item>Centro</item>
+        <item>Alcalá de Guadaira</item>
+
+
+    </string-array>
+
+    <string-array name="malagaLista">
+        <item>Marbella</item>
+
+
+
+    </string-array>
+
+    <string-array name="opcionesLista">
+        <item>Hamburguesa completa</item>
+        <item>Raviolis de queso</item>
+        <item>Pizza Margarita</item>
+
+    </string-array>
+    <string-array name="descripcionesLista">
+        <item>100% vacuno</item>
+        <item>Queso de cabra</item>
+        <item>Extra de queso</item>
+
+    </string-array>
+    <string name="receta">Receta</string>
+</resources>
